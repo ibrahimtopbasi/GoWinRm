@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/latortuga71/GoWinRm"
+	"github.com/ibrahimtopbasi/GoWinRm"
 )
 
 func main() {

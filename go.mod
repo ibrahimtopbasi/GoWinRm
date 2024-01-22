@@ -1,4 +1,4 @@
-module github.com/latortuga71/GoWinRm
+module github.com/ibrahimtopbasi/GoWinRm
 
 go 1.18
 

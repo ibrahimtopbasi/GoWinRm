@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"unsafe"
 
-	"github.com/latortuga71/GoWinRm/pkg/winapi"
+	"github.com/ibrahimtopbasi/GoWinRm/pkg/winapi"
 	"golang.org/x/sys/windows"
 )
 
